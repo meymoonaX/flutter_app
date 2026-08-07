@@ -8,6 +8,6 @@ Provide an accessible, easy-to-use mobile platform for learners to discover and 
 Login Screen ➡️ Home Screen ➡️ Program Listing ➡️ Program Details / Profile
 
 ## Setup & Running
-1. Clone this repository: `git clone <repo-url>`
+1. Clone this repository: `git clone <https://github.com/meymoonaX/flutter_app.git>`
 2. Run `flutter pub get`
 3. Launch on emulator/device using `flutter run`
