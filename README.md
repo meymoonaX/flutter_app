@@ -1,5 +1,5 @@
-# flutter_app_name
-# App Name - Flutter Project
+# flutter_learnify
+# App - Flutter Project
 
 ## Project Vision & Objectives
 Provide an accessible, easy-to-use mobile platform for learners to discover and track educational programs and virtual internships.
